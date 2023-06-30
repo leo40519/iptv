@@ -1,23 +1,22 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🇨🇳央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🇨🇳央视频道",CCTV13
 http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CBS4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🇨🇳央视频道", CBS4BOS
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="ABC13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", ABC13HOU
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="ESPN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", ESPN
-http://143.244.60.30/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", ESPN
+http://143.244.60.30/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="中国广播", 音乐之声
+#EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🇨🇳央视频道", WBZ4BOSTON
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-name="WBRZ2+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", WBRZ2+
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="中国广播", 音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

@@ -30,7 +30,7 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 #EXTINF:-1 tvg-id="KRGV5" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC 5 TX
 https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KRDO" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC Springs CO
+#EXTINF:-1 tvg-id="KRDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/KRDO_ABC_13.png",ABC Springs CO
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
 
 #EXTINF:-1 tvg-id="KMTV" tvg-logo="https://seeklogo.com/images/K/kmtv-action-3-news-logo-717B9C571D-seeklogo.com.png",CBS Omaha NE
@@ -41,6 +41,12 @@ https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 
 #EXTINF:-1 tvg-id="KUSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/KUSA_logo.svg/1200px-KUSA_logo.svg.png",NBC 9 Denver CO
 https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+
+#EXTINF:-1 tvg-id="KTRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/KTRK-TV_logo.svg/1200px-KTRK-TV_logo.svg.png", ABC13 HOU
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
+
+#EXTINF:-1 tvg-id="WMGT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Wmgt_2009.png",WMGT Macon GA
+https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

@@ -27,14 +27,17 @@ https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 #EXTINF:-1 tvg-name="WBRZ2+" tvg-logo="https://www.wbrz.com/images/logo.png",ABC Baton Rouge
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="KRGV5" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg", ABC 5 TX
+#EXTINF:-1 tvg-id="KRGV5" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC 5 TX
 https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTNV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KTNV_logo.svg/1200px-KTNV_logo.svg.png", ABC Las Vegas
+#EXTINF:-1 tvg-id="KTNV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KTNV_logo.svg/1200px-KTNV_logo.svg.png",ABC Las Vegas
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 
-#EXTINF:-1 tvg-id="KMTVDT1.us",CBS 3 Omaha NE (KMTV-TV) (720p)
+#EXTINF:-1 tvg-id="KMTV" tvg-logo="https://en.wikipedia.org/wiki/KMTV-TV",CBS Omaha
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1 tvg-id="KPNX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/1200px-KPNX_12_logo.svg.png",NBC PHX
+https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

@@ -48,5 +48,9 @@ https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x
 #EXTINF:-1 tvg-id="WMGT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Wmgt_2009.png",WMGT Macon GA
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 
+#EXTINF:-1 tvg-id="WZD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/WZDX_Fox_54_logo_2007.svg/2560px-WZDX_Fox_54_logo_2007.svg.png",WZDX Fox AL
+https://livevideo.tegnadigital.com/wzdx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WZDX/elvs/live.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

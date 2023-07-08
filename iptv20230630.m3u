@@ -54,5 +54,8 @@ https://livevideo.tegnadigital.com/wzdx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 #EXTINF:-1 tvg-id="WTIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",Fox 61 News Hartford CT (WTIC-TV)
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 
+#EXTINF:-1 tvg-id="NBATV" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
+
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

@@ -1,25 +1,28 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="🇨🇳央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png", ESPN
 http://143.244.60.30/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道",CCTV1
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="🇨🇳央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="🇨🇳央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="🇨🇳央视频道", WBZ4BOSTON
+#EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png", WBZ4BOSTON
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
-#EXTINF:-1 tvg-name="WBRZ2+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🇨🇳央视频道", WBRZ2+
+#EXTINF:-1 tvg-name="WBRZ2+" tvg-logo="https://www.wbrz.com/images/logo.png", ABC Baton Rouge
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="中国广播", 音乐之声
+#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png", 音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

@@ -30,10 +30,10 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 #EXTINF:-1 tvg-id="KRGV5" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC 5 TX
 https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KRDO" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC Springs Colorado
+#EXTINF:-1 tvg-id="KRDO" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC Springs CO
 https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
 
-#EXTINF:-1 tvg-id="KMTV" tvg-logo="https://seeklogo.com/images/K/kmtv-action-3-news-logo-717B9C571D-seeklogo.com.png",CBS Omaha
+#EXTINF:-1 tvg-id="KMTV" tvg-logo="https://seeklogo.com/images/K/kmtv-action-3-news-logo-717B9C571D-seeklogo.com.png",CBS Omaha NE
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1 tvg-id="KPNX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/1200px-KPNX_12_logo.svg.png",NBC PHX

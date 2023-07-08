@@ -33,7 +33,7 @@ https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KTNV_logo.svg/1200px-KTNV_logo.svg.png",ABC Las Vegas
 https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
 
-#EXTINF:-1 tvg-id="KMTV" tvg-logo="https://en.wikipedia.org/wiki/KMTV-TV",CBS Omaha
+#EXTINF:-1 tvg-id="KMTV" tvg-logo="https://midlandsafricanchamber.com/wp-content/uploads/2021/03/kmtv-1.png",CBS Omaha
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1 tvg-id="KPNX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/KPNX_12_logo.svg/1200px-KPNX_12_logo.svg.png",NBC PHX

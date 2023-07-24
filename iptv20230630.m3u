@@ -9,6 +9,15 @@ http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeatherNOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",AccuWeather Now
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
@@ -18,23 +27,17 @@ https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-
 #EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png",CBS BOSTON
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://w7.pngwing.com/pngs/100/409/png-transparent-fox-news-ureport-united-states-breaking-news-united-states-television-text-logo.png",FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WBRZ2+" tvg-logo="https://www.wbrz.com/images/logo.png",ABC Baton Rouge
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="KRGV5" tvg-logo="https://cdn.saffire.com/images.ashx?t=ig&rid=WelcomeHomeRGV&i=5_News.jpg",ABC 5 TX
-https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KRDO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/KRDO_ABC_13.png",ABC Springs CO
-https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8
+#EXTINF:-1 tvg-id="KTRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/KTRK-TV_logo.svg/1200px-KTRK-TV_logo.svg.png", ABC13 HOU
+https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="KMTV" tvg-logo="https://seeklogo.com/images/K/kmtv-action-3-news-logo-717B9C571D-seeklogo.com.png",CBS Omaha NE
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
@@ -45,16 +48,10 @@ https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 #EXTINF:-1 tvg-id="KUSA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/KUSA_logo.svg/1200px-KUSA_logo.svg.png",NBC 9 Denver CO
 https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
 
-#EXTINF:-1 tvg-id="KTRK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/KTRK-TV_logo.svg/1200px-KTRK-TV_logo.svg.png", ABC13 HOU
-https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
-
 #EXTINF:-1 tvg-id="WMGT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Wmgt_2009.png",WMGT Macon GA
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 
-#EXTINF:-1 tvg-id="WZD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/WZDX_Fox_54_logo_2007.svg/2560px-WZDX_Fox_54_logo_2007.svg.png",WZDX Fox AL
-https://livevideo.tegnadigital.com/wzdx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WZDX/elvs/live.m3u8
-
-#EXTINF:-1 tvg-id="WTIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",Fox 61 News Hartford CT (WTIC-TV)
+#EXTINF:-1 tvg-id="WTIC" tvg-logo="https://i.prt.news/t_200_200_86dab6b373b1193843a8a2ac42c01e8a.png",Fox 61 News Hartford CT (WTIC-TV)
 https://livevideo01.fox61.com/hls/live/2011658/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声

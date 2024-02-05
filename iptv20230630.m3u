@@ -3,8 +3,20 @@
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 https://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.tvyan.com%2Ftai%2Ffhzwt%2F&psig=AOvVaw21FSQkAG0lt2AXyEe9J05V&ust=1707010395384000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDAgLSDjoQDFQAAAAAdAAAAABAE",凤凰中文台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN
 http://143.244.60.30/ESPN/index.m3u8
@@ -21,23 +33,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="AccuWeatherNOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ftv.com.tw%2Findex.aspx&psig=AOvVaw0HaRkyzBaxD86dbjNZJ-TG&ust=1707010190540000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCFgdKCjoQDFQAAAAAdAAAAABAE",民视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fm.tvyan.com%2Ftai%2Ffhzwt%2F&psig=AOvVaw21FSQkAG0lt2AXyEe9J05V&ust=1707010395384000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDAgLSDjoQDFQAAAAAdAAAAABAE",凤凰中文台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-
 #EXTINF:-1 tvg-name="Kpop" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",K-Pop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
-https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
-
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png",CBS BOSTON
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8

@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #EXT-X-STREAM-INF:BANDWIDTH=4628000,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1920x1080
+#EXTINF:-1 tvg-name="CCTV23" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV23
 https://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 
 

@@ -6,6 +6,9 @@ https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV2
+https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 
@@ -17,6 +20,9 @@ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
+https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/440px-Phoenix_InfoNews.svg.png",凤凰中文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8

@@ -24,8 +24,20 @@ https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
 https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
+https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
+
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/440px-Phoenix_InfoNews.svg.png",凤凰中文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",湖南卫视
+https://api.olelive.com/dis/live/HUNANHD/hls.m3u8
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/de44vyj-5a2791c3-1c0d-4164-87da-3f6f02b37ed9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGU0NHZ5ai01YTI3OTFjMy0xYzBkLTQxNjQtODdkYS0zZjZmMDJiMzdlZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hUZ8hVHtoTpn1jsD3xkwnnZqtbylC5OvPd6O3xDogG4",东方卫视
+https://api.olelive.com/dis/live/DONGFANGHD/hls.m3u8
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f5Phs53zbv-Ve2YGsqfKlnFfYeT-ifEqugSMtu6dZTt4cxfumfvjbGfN9wgF6t0Lsno&usqp=CAU",浙江卫视
+https://api.olelive.com/dis/live/ZHEJIANGHD/hls.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN
 http://143.244.60.30/ESPN/index.m3u8

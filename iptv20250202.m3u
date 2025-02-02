@@ -21,6 +21,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSV7Ce3nyDRR4YnAQyyNAW2dnBuEPaPIbCw&s",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 #EXTINF:-1 tvg-id="AccuWeatherNOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",AccuWeather Now
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 

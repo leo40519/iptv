@@ -24,6 +24,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="FS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSV7Ce3nyDRR4YnAQyyNAW2dnBuEPaPIbCw&s",FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
+#EXTINF:-1 tvg-id="NFL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslTF9bK0uIAioBCuDpsozJaSWr3gJTZfDtQ&s",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="NHL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhl-network-radio-network-information-television-emblem.png",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 

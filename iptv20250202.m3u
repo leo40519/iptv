@@ -36,8 +36,14 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhl-network-radio-network-information-television-emblem.png",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 
+#EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="BIG Ten Network" tvg-logo="https://ehttps://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Yes Network" tvg-logo="https://i.imgur.com/wMQEeCF.png",Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Game Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png",Game Show
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8

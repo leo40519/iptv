@@ -15,6 +15,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://e7.pngegg.com/pngimages/310/9/png-clipart-cnbc-logo-of-nbc-television-others-miscellaneous-television.png",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
@@ -33,17 +36,17 @@ https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-id="Game Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png",Game Show
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeatherNOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/WTIC_%282020%29.svg",AccuWeather Now
+#EXTINF:-1 tvg-id="AccuWeather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1200px-AccuWeather_Logo.svg.png",AccuWeather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png",Love Nature 4K
+#EXTINF:-1 tvg-id="Nature" tvg-name="Nature" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png",Loupe 4K
+#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png",Loupe
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png",Fashion 4K
+#EXTINF:-1 tvg-id="Fashion" tvg-name="Fashion"  tvg-logo="https://epg.iill.top/logo/FashionTV.png",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
+#EXTINF:-1 tvg-id="MusicRadio" tvg-name="MusicRadio"   tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

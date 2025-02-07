@@ -1,7 +1,10 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 tvg-name="WBZ4BOSTON" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png",CBS BOSTON
+#EXTINF:-1 tvg-name="WBZ4" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png",CBS BOSTON
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-name="Boston 25" tvg-logo="https://i.imgur.com/YlsspLR.png",Boston 25
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
 
 #EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://w7.pngwing.com/pngs/100/409/png-transparent-fox-news-ureport-united-states-breaking-news-united-states-television-text-logo.png",FOX News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8

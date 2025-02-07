@@ -87,6 +87,9 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Fashion" tvg-logo="https://epg.iill.top/logo/FashionTV.png",Fashion
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",Comedy
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 

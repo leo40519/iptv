@@ -69,6 +69,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
+#EXTINF:-1 tvg-id="Showtime" tvg-logo="https://i.imgur.com/Or0LKsu.png",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 

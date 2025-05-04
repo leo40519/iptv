@@ -62,7 +62,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslTF9bK0uIAioBCuDpsozJaSWr3gJTZfDtQ&s" group-title="Sports",NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",MLB Network
+http://fl3.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NHL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhl-network-radio-network-information-television-emblem.png" group-title="Sports",NHL Network
 https://apollo.production-public.tubi.io/live/ac-nhl.m3u8

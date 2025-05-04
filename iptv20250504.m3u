@@ -1,0 +1,102 @@
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movie",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="Movie",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="PBS" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="Movie",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movie",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movie",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" group-title="Movie",Paramount
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="Movie",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+
+#EXTINF:-1 tvg-name="WBZ4" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="News",CBS BOSTON
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:-1 tvg-name="Boston 25" tvg-logo="https://i.imgur.com/YlsspLR.png" group-title="News",Boston 25
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
+
+#EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://w7.pngwing.com/pngs/100/409/png-transparent-fox-news-ureport-united-states-breaking-news-united-states-television-text-logo.png",FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="News",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://e7.pngegg.com/pngimages/310/9/png-clipart-cnbc-logo-of-nbc-television-others-miscellaneous-television.png" group-title="News",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1200px-AccuWeather_Logo.svg.png" group-title="Misc",AccuWeather
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Misc",Country Network
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yes Network" tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="Sports",Yes Network
+http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis
+http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ESPNews.svg" group-title="Sports",ESPN News
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeSV7Ce3nyDRR4YnAQyyNAW2dnBuEPaPIbCw&s" group-title="Sports",FS1
+http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslTF9bK0uIAioBCuDpsozJaSWr3gJTZfDtQ&s" group-title="Sports",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL Network" tvg-logo="https://e7.pngegg.com/pngimages/255/286/png-clipart-national-hockey-league-united-states-american-hockey-league-sirius-xm-nhl-network-radio-network-information-television-emblem.png" group-title="Sports",NHL Network
+https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
+#EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="BIG Ten Network" tvg-logo="https://ehttps://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports",Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/1200px-Entertainment_Tonight_2021.svg.png" group-title="Entertainment",Entertainment Tonight
+https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
+
+#EXTINF:-1 tvg-id="NBC LX" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="House",NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:-1 tvg-id="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Sports",This Old House
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
+
+#EXTINF:-1 tvg-id="BBC Home&Garden" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Sports",BBC Home&Garden
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
+
+#EXTINF:-1 tvg-id="Game Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Fun",Game Show
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Fun",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nature" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="4K",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="4K",Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+#EXTINF:-1 tvg-id="Fashion" tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="4K",Fashion
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MusicRadio" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png",音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8

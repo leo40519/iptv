@@ -13,13 +13,13 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime" tvg-logo="https://i.imgur.com/Or0LKsu.png" group-title="Movie",Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" group-title="Movie",Paramount
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="Movie",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 
 #EXTINF:-1 tvg-name="WBZ4" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="News",CBS BOSTON
@@ -38,7 +38,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://e7.pngegg.com/pngimages/310/9/png-clipart-cnbc-logo-of-nbc-television-others-miscellaneous-television.png" group-title="News",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
+http://fl3.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1200px-AccuWeather_Logo.svg.png" group-title="Misc",AccuWeather
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8

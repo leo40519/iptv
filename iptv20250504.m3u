@@ -46,6 +46,9 @@ https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Misc",Country Network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NBC Sports Boston" tvg-logo="https://yt3.googleusercontent.com/9rtJDt7z3zzNsDO6VVSfXiqE7AbE3WXpZwSWYODJweU_xoy0IlT5_S-52R0lKFv8Qs_STvKG6kk=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",NBC Sports Boston
+https://v1.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Yes Network" tvg-logo="https://i.imgur.com/wMQEeCF.png" group-title="Sports",Yes Network
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 

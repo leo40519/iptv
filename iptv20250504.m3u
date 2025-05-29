@@ -23,10 +23,13 @@ http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 
 #EXTINF:-1 tvg-name="WBZ4" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="News",CBS BOSTON
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 
-#EXTINF:-1 tvg-name="Boston 25" tvg-logo="https://i.imgur.com/YlsspLR.png" group-title="News",Boston 25
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b62b3982d0d000755a2be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f6390858-5ff7-40b8-83c2-2d2baded2800
+#EXTINF:-1 tvg-name="Fox 25" tvg-logo="https://i.imgur.com/YlsspLR.png" group-title="News",Fox 25
+https://apollo.production-public.tubi.io/live/ac-wfxt.m3u8
+
+#EXTINF:-1 tvg-name="NBC 10" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2018/01/wbts-logo-1.jpg" group-title="News",NBC 10
+https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://w7.pngwing.com/pngs/100/409/png-transparent-fox-news-ureport-united-states-breaking-news-united-states-television-text-logo.png",FOX News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -55,7 +58,7 @@ http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Tennis" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/ESPNews.svg" group-title="Sports",ESPN News
+#EXTINF:-1 tvg-id="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="Sports",ESPNU
 https://fl3.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ

@@ -1,0 +1,58 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="Movie",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="Movie",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="PBS" tvg-logo="https://i.imgur.com/vQ7F7zg.png" group-title="Movie",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movie",AMC
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+
+#EXTINF:-1 tvg-name="WBZ4" tvg-logo="https://pbs.twimg.com/profile_images/530749632175804417/zgbOMOnw_400x400.png" group-title="News",CBS BOSTON
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+
+#EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://w7.pngwing.com/pngs/100/409/png-transparent-fox-news-ureport-united-states-breaking-news-united-states-television-text-logo.png",FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="News",ABC News Live
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://e7.pngegg.com/pngimages/310/9/png-clipart-cnbc-logo-of-nbc-television-others-miscellaneous-television.png" group-title="News",CNBC
+#EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1200px-AccuWeather_Logo.svg.png" group-title="Misc",AccuWeather
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Misc",Country Network
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/SEC_Network_%282024%29.svg" group-title="Sports",SEC Network
+http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sports",Tennis
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV2
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sports HQ" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="Sports",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-id="NBC LX" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="House",NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
+#EXTINF:-1 tvg-id="This Old House" tvg-logo="https://i.imgur.com/nrVLyE6.png" group-title="Sports",This Old House
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
+
+#EXTINF:-1 tvg-id="Game Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Fun",Game Show
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Fun",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
